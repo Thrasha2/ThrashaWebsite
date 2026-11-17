@@ -3,14 +3,15 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thrasha2</title>
     <link rel="stylesheet" href="Styles.css">
 </head>
 <body>
 
-<header>
+<header id="header">
     <div class="headerbox1">
-        <img src="img/pfp.jpg">
+        <img src="img/pfp.jpg" alt="Profile picture">
         <span>Thrasha's Website :)</span>
     </div>
 
@@ -21,22 +22,54 @@
     </nav>
 </header>
 
-<div class="card-container">
-    <div class="card">
-        <h2>About Me</h2>
-        <p>Hi! I'm Thrasha2. I am interested in programming, tech, and linux systems.</p>
+<main>
+    <div class="card-container">
+
+        <div class="card" id="about">
+            <h2>About Me</h2>
+            <p>Hi! I'm Thrasha2. I am interested in programming, tech, and Linux systems.</p>
+
+            <a href="https://github.com/Thrasha2" class="card-link" target="_blank" rel="noopener noreferrer">
+                My GitHub
+            </a>
+        </div>
+
+        <div class="card">
+            <h2>My Hobbies</h2>
+            <ul>
+                <li>Programming</li>
+                <li>Gaming</li>
+                <li>Skateboarding</li>
+                <li>Bass Guitar</li>
+                <li>Anime</li>
+            </ul>
+        </div>
+
+        <div class="card" id="projects">
+            <h2>My Projects</h2>
+            <p>I work on various programming projects and do a little 3D artwork for games.</p>
+        </div>
+
+    </div>
+</main>
+
+<footer class="footer">
+    <div class="footer-content">
+        <div class="footer-left">
+            <strong>Cat Studios</strong>
+            <p>Making games, too many games. all at one time.</p>
+        </div>
+
+        <div class="footer-right">
+            <a href="#about">About</a>
+            <a href="contact.html">Contact Us</a>
+        </div>
     </div>
 
-    <div class="card">
-        <h2>My Interests</h2>
-        <p>Gaming and stuff</p>
+    <div class="footer-bottom">
+        &copy; 2026 Cat Studios. All rights reserved.
     </div>
-
-    <div class="card">
-        <h2>My Projects</h2>
-        <p>I work on various programming projects and do a little 3d artwork for games.</p>
-    </div>
-</div>
+</footer>
 
 </body>
 </html>
