@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="937d015b-4376-49ee-972d-623d4e63763d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ThrashaWebsite.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/OptimusPrinceps.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/OptimusPrincepsSemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pfp.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pfp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/python projects.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0665311771470722" />
+      <entry key="MS500" value="1.82719255634795" />
+      <entry key="S2" value="2.5778140763388366" />
+      <entry key="S5" value="2.8167490687188987" />
+      <entry key="S10" value="2.950616421193832" />
+      <entry key="S30" value="5.904573587865942" />
+      <entry key="S60" value="12.30587775162802" />
+      <entry key="M2" value="20.86335885911876" />
+      <entry key="M5" value="46.54108299160439" />
+      <entry key="M10" value="97.37770326557431" />
+      <entry key="M15" value="136.94295877796102" />
+      <entry key="M30" value="201.93913723593832" />
+      <entry key="H1" value="249.32936066540088" />
+      <entry key="H2" value="278.1198728238332" />
+      <entry key="H4" value="294.0119483137547" />
+      <entry key="D1" value="308.0892011345486" />
+      <entry key="W1" value="310.5821804498109" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.11551461484345E-310" />
+      <entry key="MS500" value="1.0255521430207893E-62" />
+      <entry key="S2" value="4.3127394885513162E-16" />
+      <entry key="S5" value="1.258112538336039E-6" />
+      <entry key="S10" value="0.0019234711002260338" />
+      <entry key="S30" value="0.28032154607330917" />
+      <entry key="S60" value="1.033147212742643" />
+      <entry key="M2" value="2.078393454705424" />
+      <entry key="M5" value="3.6215953409225605" />
+      <entry key="M10" value="5.107095872987836" />
+      <entry key="M15" value="6.072357475484944" />
+      <entry key="M30" value="7.568779309781854" />
+      <entry key="H1" value="8.631692757301604" />
+      <entry key="H2" value="9.27191016508664" />
+      <entry key="H4" value="9.624150771495719" />
+      <entry key="D1" value="9.935644114466166" />
+      <entry key="W1" value="9.990763304419424" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.6039008865658532" />
+      <entry key="MS500" value="1.2998525620169399" />
+      <entry key="S2" value="2.3013106088363946" />
+      <entry key="S5" value="2.6862613479530824" />
+      <entry key="S10" value="2.8822197689397866" />
+      <entry key="S30" value="6.128234814775263" />
+      <entry key="S60" value="13.272912324270443" />
+      <entry key="M2" value="22.88114359544568" />
+      <entry key="M5" value="50.10901567505993" />
+      <entry key="M10" value="102.4342194422605" />
+      <entry key="M15" value="142.96994664586717" />
+      <entry key="M30" value="209.47585588446194" />
+      <entry key="H1" value="257.94164001586495" />
+      <entry key="H2" value="287.3810526005326" />
+      <entry key="H4" value="303.6304518169404" />
+      <entry key="D1" value="318.0238624311311" />
+      <entry key="W1" value="320.57280229954256" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3MEqb1vddA47DXDxEUn3i0TTKq4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.index.html.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "last_opened_file_path": "/home/thrasha/coding stuff/coding/websites/ThrashaWebsite",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ThrashaWebsite-main/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-56aff7b04f6f-JavaScript-WS-263.7307.202" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="937d015b-4376-49ee-972d-623d4e63763d" name="Changes" comment="" />
+      <created>1794926142961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794926142961</updated>
+      <workItem from="1794926144042" duration="1503000" />
+      <workItem from="1794935456027" duration="876000" />
+      <workItem from="1795367100927" duration="803000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
