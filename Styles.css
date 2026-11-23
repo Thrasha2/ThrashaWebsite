@@ -312,7 +312,7 @@ header {
     }
 }
 .project-image {
-    width: 50%;
+    width: 100%;
     max-width: 500px;
     height: auto;
     display: block;
@@ -321,3 +321,10 @@ header {
     object-fit: cover;
 }
 
+.about-card-container {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 20px;
+    width: 100%;
+    margin: 30px auto;
+}
