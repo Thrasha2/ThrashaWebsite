@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1e55975-48d5-4915-86c3-7c5763cf511c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ThrashaWebsite.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/About.html" beforeDir="false" afterPath="$PROJECT_DIR$/About.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projects.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.2206803488658533" />
+      <entry key="MS500" value="1.831969311835654" />
+      <entry key="S2" value="3.433825372348569" />
+      <entry key="S5" value="5.602282819175039" />
+      <entry key="S10" value="7.0067464806100315" />
+      <entry key="S30" value="9.307779457323408" />
+      <entry key="S60" value="12.328409787272125" />
+      <entry key="M2" value="18.159152143121208" />
+      <entry key="M5" value="36.93134083431218" />
+      <entry key="M10" value="76.20236912378495" />
+      <entry key="M15" value="122.25786730777645" />
+      <entry key="M30" value="241.8043542079895" />
+      <entry key="H1" value="370.09067998217535" />
+      <entry key="H2" value="466.89244267928154" />
+      <entry key="H4" value="526.7688131116417" />
+      <entry key="D1" value="583.7490055089663" />
+      <entry key="W1" value="594.2315254272585" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="2.547709691107165E-178" />
+      <entry key="S2" value="4.0230200337406094E-45" />
+      <entry key="S5" value="1.9789361962591713E-18" />
+      <entry key="S10" value="1.8078940072046038E-9" />
+      <entry key="S30" value="0.0019395042738528235" />
+      <entry key="S60" value="0.07026728790696485" />
+      <entry key="M2" value="0.548988219129872" />
+      <entry key="M5" value="3.4403046884096615" />
+      <entry key="M10" value="8.864884403411637" />
+      <entry key="M15" value="13.489602267059453" />
+      <entry key="M30" value="22.584235972967754" />
+      <entry key="H1" value="30.611394967635082" />
+      <entry key="H2" value="36.11334993002845" />
+      <entry key="H4" value="39.36042129966518" />
+      <entry key="D1" value="42.363903793670175" />
+      <entry key="W1" value="42.908375351074326" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.7440733061311879" />
+      <entry key="MS500" value="1.59625417344309" />
+      <entry key="S2" value="3.1319198912390194" />
+      <entry key="S5" value="5.354857034997723" />
+      <entry key="S10" value="6.842957514846889" />
+      <entry key="S30" value="9.234092806030732" />
+      <entry key="S60" value="12.344007423555523" />
+      <entry key="M2" value="18.656490034235414" />
+      <entry key="M5" value="40.3069109506634" />
+      <entry key="M10" value="84.99279723525815" />
+      <entry key="M15" value="135.6712981047309" />
+      <entry key="M30" value="264.3212216957507" />
+      <entry key="H1" value="400.65417891763906" />
+      <entry key="H2" value="502.9767189731441" />
+      <entry key="H4" value="566.1131453152477" />
+      <entry key="D1" value="626.1099846145356" />
+      <entry key="W1" value="637.1394766151521" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3MCjwP5qNZRM7DWim2yQP5cfCQ8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/thrasha/coding stuff/coding/websites/ThrashaWebsite/img&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-56aff7b04f6f-JavaScript-WS-263.7307.202" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1e55975-48d5-4915-86c3-7c5763cf511c" name="Changes" comment="" />
+      <created>1794861685359</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794861685359</updated>
+      <workItem from="1794861688929" duration="737000" />
+      <workItem from="1794926114646" duration="28000" />
+      <workItem from="1795367909323" duration="3144000" />
+      <workItem from="1795373454519" duration="718000" />
+      <workItem from="1795384542296" duration="4827000" />
+      <workItem from="1795465719391" duration="561000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
